@@ -3,7 +3,7 @@
   <br>
     Portfólio
   <br>
-  https://github.com/luiz-lgrp/portfolio/browser/
+  https://luiz-lgrp.github.io/portfolio/
 </h1>
 
 ---
