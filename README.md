@@ -3,7 +3,7 @@
   <br>
     Portfólio
   <br>
-  https://troquatte.github.io/curso-angular-portfolio/browser/
+  https://github.com/luiz-lgrp/portfolio/browser/
 </h1>
 
 ---
